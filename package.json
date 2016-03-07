@@ -1,0 +1,42 @@
+{
+  "name": "grunt-audero-lsg",
+  "description": "Grunt task for Audero LSG",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AurelioDeRosa/grunt-audero-lsg.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "gruntplugin",
+    "living",
+    "style",
+    "guide",
+    "styleguide",
+    "css",
+    "html",
+    "library"
+  ],
+  "author": "Aurelio De Rosa <a.derosa@audero.it> (https://www.audero.it)",
+  "contributors": [
+    {
+      "name": "Aurelio De Rosa",
+      "email": "a.derosa@audero.it",
+      "url": "https://www.audero.it"
+    }
+  ],
+  "license": "(MIT OR GPL-3.0)",
+  "bugs": "https://github.com/AurelioDeRosa/grunt-audero-lsg/issues",
+  "homepage": "https://github.com/AurelioDeRosa/grunt-audero-lsg",
+  "dependencies": {
+    "audero-lsg": "^0.1.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-jscs": "^2.8.0"
+  }
+}
